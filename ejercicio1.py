@@ -8,7 +8,15 @@
 """
 lista = ["1","2","3","4","5","6","7"]
 listadicotomia = []
-def dicotomia(longitud):
-  listadicotomia.append(lista[longitud//2])
+listadicotomia.append(lista.pop(len(lista)//2))
+print(lista)
+retroceso = 0
+def dicotomia(longitud,retroceso):
+  retroceso = retroceso + 1
+  print(retroceso)
   print(listadicotomia)
-dicotomia(len(lista))
+  listadicotomia.append(lista[((longitud//2)-retroceso)-1])
+if len(listadicotomia) < len(lista):
+  dicotomia(len(lista),0)
+
+dicotomia(len(lista),0)
