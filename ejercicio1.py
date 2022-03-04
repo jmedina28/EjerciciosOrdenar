@@ -1,8 +1,10 @@
 # Ordenación por inserción dicotómica:
-lista = ["1","2","3","4","5","6","7"]
+listainicial = ["6","3","2","4","7","1","5"]
+print("Tu lista inicial es la siguiente: " + str(listainicial))
+lista = sorted(listainicial)
 orden = len(lista)
 listadicotomia = []
-print("Tu lista inicial es la siguiente: " + str(lista))
+print("Tu lista inicial ordenada es la siguiente: " + str(lista))
 retroceso = 0
 def dicotomia(longitud,retroceso):
   if  len(listadicotomia) <= orden//2:
