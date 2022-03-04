@@ -1,5 +1,10 @@
 # Ordenación por inserción dicotómica:
-listainicial = ["6","3","2","4","7","1","5"]
+import random
+listainicial = []
+def generarlista(n):
+  while len(listainicial) < n:
+    listainicial.append(random.randint(0,100))
+generarlista(int(input("Introduzca cuántos elementos desea que tenga su lista: ")))
 print("Tu lista inicial es la siguiente: " + str(listainicial))
 lista = sorted(listainicial)
 orden = len(lista)
