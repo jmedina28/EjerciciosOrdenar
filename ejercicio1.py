@@ -1,10 +1,15 @@
 # Ordenación por inserción dicotómica:
 import random
 listainicial = []
-def generarlista(n):
+def generarlista(n, i):
+  j = i.split("-")
   while len(listainicial) < n:
-    listainicial.append(random.randint(0,100))
-generarlista(int(input("Introduzca cuántos elementos desea que tenga su lista: ")))
+    listainicial.append(random.randint(int(j[0]),int(j[1])))
+generarlista(int(input("Introduzca cuántos elementos desea que tenga su lista: ")), 
+str(input("""Introduzca el intervalo que desea que abarque la lista generada. 
+Para ello escríbalo tal y como se muestra en el ejemplo dado.
+- Ejemplo: 0-100
+- Introduzca su intervalo: """)))
 print("Tu lista inicial es la siguiente: " + str(listainicial))
 lista = sorted(listainicial)
 orden = len(lista)
