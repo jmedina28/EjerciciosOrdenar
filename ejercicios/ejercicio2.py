@@ -16,6 +16,13 @@ def rellenarlistas(n):
     resultado[n].append(random.randint(0,10))
     n+=1
 rellenarlistas(1)
-print(resultado)
-print(list(resultado.values()))
-print(listatareas)
+listavalores = list(resultado.values())
+def asociacion(n):
+  if n<len(listatareas):
+    listavalores[n].append(listatareas[n])
+    asociacion(n+1)
+asociacion(0)
+print(listavalores)
+listaordenada = reversed(sorted(listavalores))
+print(listaordenada)
+                       
