@@ -3,7 +3,6 @@
 import random
 listainicial = []
 
-
 def generarlista(n, i):
     j = i.split("-")
     while len(listainicial) < n:
@@ -16,21 +15,25 @@ Para ello escríbalo tal y como se muestra en el ejemplo dado.
 - Introduzca su intervalo: """)))
 print("Tu lista inicial es la siguiente: " + str(listainicial))
 
+
+
 # Este programa va a extraer segmentos decrecientes de la lista generada.
 
 orden = len(listainicial)
 maximo = max(listainicial)
 indicemax = listainicial.index(maximo)
-
-def generarsegmentos(n):
-  segmento1 = [max(listainicial)]
-  if listainicial[indicemax+1]<listainicial[indicemax]:
-    segmento1.append(listainicial[indicemax+1])
+segmento1= []
+def generarsegmento1(n, i):
+  segmento1.append(listainicial[n])
+  if listainicial[n+i]<listainicial[n] and ((n+len(segmento1)))<=len(listainicial):
+    segmento1.append(listainicial[n+1])
     print(segmento1)
-  else:
-    segmento1 = [indicemax, indicemax+1]
-    generarsegmentos(n+2)
-    print(segmento1)
+    generarsegmento1(n+len(segmento1), 1)
+   
+  
+generarsegmento1(indicemax, 1)
 
-generarsegmentos(max(listainicial))
+
+
+
     
