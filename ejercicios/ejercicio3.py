@@ -26,12 +26,13 @@ indicemax = listainicial.index(max(listainicial))
 resultado[1].append(listainicial[indicemax])
 
 def generarsegmento(p,n, i):
-  if (n+i+1)<len(listainicial) and listainicial[n+i+1]<=listainicial[n+i]:
+  while (n+i+1)<len(listainicial) and listainicial[n+i+1]<=listainicial[n+i] and p<=20:
     resultado[p].append(listainicial[indicemax+i+1])
-    generarsegmento(p,n, i+1)
+    i += 1
+    print(resultado)
   else:
     p = 2
-    while  p < n:
+    while  p <= n:
       resultado[p].append(listainicial[indicemax+i+1])
       i += 1
       p +=1 
