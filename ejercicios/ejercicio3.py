@@ -22,10 +22,15 @@ orden = len(listainicial)
 maximo = max(listainicial)
 indicemax = listainicial.index(maximo)
 
-def generarsegmentos():
+def generarsegmentos(n):
   segmento1 = [max(listainicial)]
   if listainicial[indicemax+1]<listainicial[indicemax]:
     segmento1.append(listainicial[indicemax+1])
+    print(segmento1)
   else:
-    generarsegmentos()
+    segmento1 = [indicemax, indicemax+1]
+    generarsegmentos(n+2)
+    print(segmento1)
+
+generarsegmentos(max(listainicial))
     
