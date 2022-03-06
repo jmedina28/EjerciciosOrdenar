@@ -21,4 +21,11 @@ print("Tu lista inicial es la siguiente: " + str(listainicial))
 orden = len(listainicial)
 maximo = max(listainicial)
 indicemax = listainicial.index(maximo)
-print(indicemax)
+
+def generarsegmentos():
+  segmento1 = [max(listainicial)]
+  if listainicial[indicemax+1]<listainicial[indicemax]:
+    segmento1.append(listainicial[indicemax+1])
+  else:
+    generarsegmentos()
+    
