@@ -10,7 +10,7 @@ def diccionariolistas(j):
         diccionario[i] = []
     return diccionario
 resultado = diccionariolistas(len(listatareas))
-print(resultado)
+
 def rellenarlistas(n):
   while n<=len(listatareas):
     resultado[n].append(random.randint(0,10))
@@ -22,7 +22,6 @@ def asociacion(n):
     listavalores[n].append(listatareas[n])
     asociacion(n+1)
 asociacion(0)
-print(listavalores)
-listaordenada = reversed(sorted(listavalores))
+listaordenada = sorted(listavalores, reverse= True)
 print(listaordenada)
                        
