@@ -19,3 +19,6 @@ print("Tu lista inicial es la siguiente: " + str(listainicial))
 # Este programa va a extraer segmentos decrecientes de la lista generada.
 
 orden = len(listainicial)
+maximo = max(listainicial)
+indicemax = listainicial.index(maximo)
+print(indicemax)
