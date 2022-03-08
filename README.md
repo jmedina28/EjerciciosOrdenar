@@ -108,7 +108,7 @@ Para ello escríbalo tal y como se muestra en el ejemplo dado.
 - Ejemplo: 0-100
 - Introduzca su intervalo: """)))
 print("Tu lista inicial es la siguiente: " + str(listainicial))
-
+x = len(listainicial)
 def diccionariolistas(j):
     diccionario = {}
     for i in range(1, j + 1):
@@ -119,18 +119,18 @@ resultado = diccionariolistas(len(listainicial))
 resultado[1].append(listainicial.pop(0))
 
 def generarsegmento(n,p):
-  if n<=20 and p<20 and resultado[n][p] >= listainicial[0]:
+  if n<=x and p<x and resultado[n][p] >= listainicial[0]:
     resultado[n].append(listainicial.pop(0))
-    if n<20 and p<20 and len(listainicial)>0:
+    if n<x and p<x and len(listainicial)>0:
       generarsegmento(n,p+1)
     else:
-      print(resultado)
-  elif n<20 and p<=20 and resultado[n][p] < listainicial[0]:
+      print("El resultado es el siguiente: "+str(resultado))
+  elif n<x and p<=x and resultado[n][p] < listainicial[0]:
     resultado[n+1].append(listainicial.pop(0))
-    if n<20 and p<20 and len(listainicial)>0:
+    if n<x and p<x and len(listainicial)>0:
       generarsegmento(n+1,0)
     else:
-      print(resultado)
+      print("El resultado es el siguiente: "+str(resultado))
 
 generarsegmento(1,0)
 ```
