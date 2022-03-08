@@ -30,12 +30,12 @@ def generarsegmento(n,p):
     if n<20 and p<20 and len(listainicial)>0:
       generarsegmento(n,p+1)
     else:
-      print(resultado)
+      print("El resultado es el siguiente: "+str(resultado))
   elif n<20 and p<=20 and resultado[n][p] < listainicial[0]:
     resultado[n+1].append(listainicial.pop(0))
     if n<20 and p<20 and len(listainicial)>0:
       generarsegmento(n+1,0)
     else:
-      print(resultado)
+      print("El resultado es el siguiente: "+str(resultado))
 
 generarsegmento(1,0)
