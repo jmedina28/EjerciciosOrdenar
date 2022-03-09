@@ -97,9 +97,7 @@ else:
 ```
 El diagrama de flujo es el siguiente:
 
-<br>
-<img height="550" src="flowcharts/Ejercicio2Flowchart.drawio.jpg" />
-<br>
+
 
 ## Ejercicio 3: Completar las especificaciones
 
