@@ -6,8 +6,16 @@
 
 ---
 En este [repositorio](https://github.com/jmedina28/EjerciciosOrdenar) quedan resueltos los ejercicios de ordenar. Para llevar a cabo el proyecto me he documentado a través de los ejemplos dados y la teoría que se encuentra en el campus virtual.
+***
+## Índice
+1. [Ordenación por inserción dicotómica.](#id1)
+3. [Una ordenación topológica.](#id2)
+3. [Completar las especificaciones.](#id3)
+***
 
-## Ejercicio 1: Ordenación por inserción dicotómica
+## Ejercicio 1: Ordenación por inserción dicotómica<a name="id1"></a>
+
+Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/1).
 
 El código empleado para resolverlo es el siguiente:
 
@@ -55,7 +63,9 @@ El diagrama de flujo es el siguiente:
 <img height="600" src="flowcharts/Ejer1Flowchart.drawio.jpg" />
 <br>
 
-## Ejercicio 2: Una ordenación topológica
+## Ejercicio 2: Una ordenación topológica<a name="id2"></a>
+
+Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/2).
 
 El código empleado para resolverlo es el siguiente:
  
@@ -102,7 +112,9 @@ El diagrama de flujo es el siguiente:
 <img height="600" src="flowcharts/Ejercicio2Flowchart.jpg" />
 <br>
 
-## Ejercicio 3: Completar las especificaciones
+## Ejercicio 3: Completar las especificaciones<a name="id3"></a>
+
+Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/3).
 
 El código empleado para resolverlo es el siguiente:
  
