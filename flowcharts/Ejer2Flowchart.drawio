@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T18:29:13.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="RKlJNPRwh950hmnu8nZo" version="16.6.6" type="device"><diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">5Vjbcps6FP0aZk4fPAMIMH5M3MvJQ08zk077LEsbo1QgV4g46ddXEuJOWk/GznkInjFo6Yb22nttCQ9ti8dPEh/yz4IC90KfPnrovRfqK470zSBPDZL6QQPsJaMNNADu2C9woO/QmlGoRg2VEFyxwxgkoiyBqBGGpRTHcbNM8PGsB7yHGXBHMJ+j3xlVuVtFuO7xf4Ht83bmINk0NTtMfuylqEs3nxeij/ZqqgvcjuUWWuWYiuMAQh88tJVCqOapeNwCN7Ztzdb0+/hMbffeEkp1SodVHl+tslu/eA/+fXa/EvUNWblRHjCvnT1u/rvZ3nxxr6yeWjPZhYIZKvDQ9TFnCu4OmJjao3YMjeWq4K4a7yrBawVXkjjCLdqXIl2slBQ/Optrc1xnjPOt4ELaKRGNIaV9y0FNGu5QkuiauQ3aBYFU8DiAnE0+gShAySfdxNWiyPHZ+W9TPPbOECCH5QNHSByGnf/tu5F7DvSDo2GZEvXr+iC/fa59Wf0Mw6/5Kn5YLVAyIwNKemVcX5cIx1XFyNj+PVl+ZySgsziYWG1uooEN4gUTtJgEjhV7GA+/ZBc3w61geuKOgSiIRgwE8cS0laglAddr6OF/GSj0JwMpLPegZgNZmrplv5y5cMYcFAcOuBCVhusS63/OKmXu+hWkoDVh1JQO2rO1hEKmFU7YJyODmiD95s9Hov/3SJyEVJZlISFLIUWTXRL3ITWLn5P8pQ2peMJDuBBT4WvGVPTWYyrcnCmmUPS6MZW8PebQyOBR+mLmxgPF6HWZ28yYq4yqwT2Q2kogN39ZXRLmbZF3jUojfIwQJkosmbBKWf3zTqM/a9OTaDnUt7JV0cquRRCGafNsx6xck1Y9fRiorR0GW8lt5BhM06oeCDMRUkJ1ECVl2iHgrPJLMaTZovwmJIVddhn5RcmJ8hsEF9vT+C9xBh1JHLQvzDxhSGddWsJNp6sCpMmeem+PldAu1BI8otzm1sZPWjc6I8UQ6G3reoniTbJG+GwZdrxpjaMTKZ6mgfMxPE+xd1+/3P7Btq92jshSAsubnl0aR7F/majboP/9IPEGc+eYg2S6WXnprieZxs2Fc2dwQvKciGWTCTtkoJZCUig7jW3znBXGafaFthUr9JFEYV3bSKYCWbASDw4r9jPQRHd1vtSqK4smcbbJWbjc/JwKX+KcE5vfYqK1l+khSjXAm+sy6rz2T03A05Pv2bQgRG9dC9L1mbRgE55LC3Sx//zXNO+/saIPvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-09T18:57:50.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="R2txHnLvJlCJh-A2NboL" version="16.6.6" type="github">
+  <diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">
+    <mxGraphModel dx="2254" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-h5A-fP0mDe0jfj-ouIc-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="349" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="150" as="sourcePoint" />
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--2" value="empleamos una lista introducida por defecto de tareas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="sourcePoint" />
+            <mxPoint x="414" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="470" as="sourcePoint" />
+            <mxPoint x="413" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--9" value="se ejecuta la función diccionariolistas() que crea n listas asociadas a las n tareas e introduce cada una en su lista correspondiente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="354" y="350" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--10" value="se ejecuta la función rellenarlistas() que introduce un número aleatorio en cada una de las listas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="359" y="530" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--14" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="349" y="820" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="630" as="sourcePoint" />
+            <mxPoint x="414" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--19" value="se ejecuta la función asociación()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="354" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="760" as="sourcePoint" />
+            <mxPoint x="414" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRD62c4sEKoeklS1uNX9-3" value="ordena la lista de tareas en función del número asignado de tal forma que la primera a realizar será la que obtenga una mayor puntuación y la última la que obtenga la menor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="580" y="645" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MRD62c4sEKoeklS1uNX9-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="720" as="sourcePoint" />
+            <mxPoint x="560" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
