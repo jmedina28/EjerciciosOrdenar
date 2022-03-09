@@ -49,6 +49,11 @@ def dicotomia(longitud, retroceso):
 dicotomia(orden, retroceso)
 print("Esta es la lista obtenida mediante la dicotomía: " + str(listadicotomia))
 ```
+El diagrama de flujo es el siguiente:
+
+<br>
+<img height="600" src="flowcharts/Ejer1Flowchart.drawio.jpg" />
+<br>
 
 ## Ejercicio 2: Una ordenación topológica
 
@@ -90,6 +95,12 @@ else:
     exit()
 
 ```
+El diagrama de flujo es el siguiente:
+
+<br>
+<img height="550" src="flowcharts/Ejercicio2Flowchart.drawio.jpg" />
+<br>
+
 ## Ejercicio 3: Completar las especificaciones
 
 El código empleado para resolverlo es el siguiente:
@@ -145,3 +156,8 @@ def generarsegmento(n, p):
 
 generarsegmento(1, 0)
 ```
+El diagrama de flujo es el siguiente:
+
+<br>
+<img height="550" src="flowcharts/Ejercicio3Flowchart.drawio.jpg" />
+<br>
