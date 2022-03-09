@@ -95,9 +95,12 @@ else:
     exit()
 
 ```
+
 El diagrama de flujo es el siguiente:
 
-
+<br>
+<img height="600" src="flowcharts/Ejercicio2Flowchart.jpg" />
+<br>
 
 ## Ejercicio 3: Completar las especificaciones
 
