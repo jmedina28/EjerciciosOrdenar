@@ -1,7 +1,7 @@
 # Ordenación por inserción dicotómica:
 import random
-listainicial = []
 
+listainicial = []
 
 def generarlista(n, i):
     j = i.split("-")
@@ -15,12 +15,18 @@ Para ello escríbalo tal y como se muestra en el ejemplo dado.
 - Ejemplo: 0-100
 - Introduzca su intervalo: """)))
 print("Tu lista inicial es la siguiente: " + str(listainicial))
-lista = sorted(listainicial)
-orden = len(lista)
-listadicotomia = []
-print("Tu lista inicial ordenada es la siguiente: " + str(lista))
-retroceso = 0
 
+listadicotomia, lista, orden, retroceso = [], [], len(listainicial), 0
+
+def ordenarlista(l):
+  if len(listainicial) > 0:
+    minimo = l.index(min(l))
+    lista.append(listainicial.pop(minimo))
+    ordenarlista(listainicial)
+
+
+ordenarlista(listainicial)
+print("Tu lista inicial ordenada es la siguiente: " + str(lista))
 
 def dicotomia(longitud, retroceso):
     if len(listadicotomia) < orden//2:
