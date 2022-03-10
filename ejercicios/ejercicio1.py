@@ -19,10 +19,10 @@ print("Tu lista inicial es la siguiente: " + str(listainicial))
 listadicotomia, lista, orden, retroceso = [], [], len(listainicial), 0
 
 def ordenarlista(l):
-  if len(listainicial) > 0:
+  if len(l) > 0:
     minimo = l.index(min(l))
-    lista.append(listainicial.pop(minimo))
-    ordenarlista(listainicial)
+    lista.append(l.pop(minimo))
+    ordenarlista(l)
 
 
 ordenarlista(listainicial)
