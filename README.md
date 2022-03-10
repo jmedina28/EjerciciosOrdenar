@@ -15,6 +15,8 @@ En este [repositorio](https://github.com/jmedina28/EjerciciosOrdenar) quedan res
 
 ## Ejercicio 1: Ordenación por inserción dicotómica<a name="id1"></a>
 
+En este ejercicio, he creado un programa que genera una lista aleatoria de n valores y de cierto rango introducido por el usuario, la ordena de menor a mayor y posteriormente la recoloca empleando la dicotomía.
+
 Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/1).
 
 El código empleado para resolverlo es el siguiente:
@@ -65,6 +67,8 @@ El diagrama de flujo es el siguiente:
 
 ## Ejercicio 2: Una ordenación topológica<a name="id2"></a>
 
+En este ejercicio, he creado un programa que coloca una serie de tareas en orden de prioridad con el uso de diccionarios, asignando a cada tarea u número aleatorio y dando mayor prioridad a la tarea cuanto mayor es el número asignado.
+
 Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/2).
 
 El código empleado para resolverlo es el siguiente:
@@ -113,6 +117,8 @@ El diagrama de flujo es el siguiente:
 <br>
 
 ## Ejercicio 3: Completar las especificaciones<a name="id3"></a>
+
+En este ejercicio, he creado un programa que de una lista aleatoria de n números y de cierto rango introducidos por el usuario extrae todas las sublistas de la misma decrecientes.
 
 Este es su [Milestone](https://github.com/jmedina28/EjerciciosOrdenar/milestone/3).
 
