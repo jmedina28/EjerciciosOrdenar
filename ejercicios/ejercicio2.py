@@ -19,14 +19,21 @@ if variable == 1:
       resultado[n].append(random.randint(0,10))
       n+=1
   rellenarlistas(1)
-  listavalores = list(resultado.values())
-  def asociacion(n):
+  listavalores, listaordenada = list(resultado.values()), []
+  
+  def ordenarlista(l):
+    if len(l) > 0:
+      maximo = l.index(max(l))
+      listaordenada.append(l.pop(maximo))
+      ordenarlista(l)
+    
+  
+  def ordenprioridad(n):
     if n<len(listatareas):
       listavalores[n].append(listatareas[n])
-      asociacion(n+1)
-  asociacion(0)
-  listaordenada = sorted(listavalores, reverse= True)
+      ordenprioridad(n+1)
+  ordenprioridad(0)
+  ordenarlista(listavalores)
   print(listaordenada)
 else:
   exit()
-                         
