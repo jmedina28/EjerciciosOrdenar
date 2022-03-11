@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T18:38:36.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wx_iMa6buJ5Srkf8yDX4" version="16.6.6" type="device"><diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">5VhNc5swEP01zLQHzwACbB9j56M5pMmMM+1ZlhajRCBHiNjJr68EAoyhSca100N8sNHb1Qq9t7sCO2iebq8kXic3ggJ3fJduHXTu+PoTBvrHIC8VMnG9ClhJRitoB1iwV7Cga9GCUcg7jkoIrti6CxKRZUBUB8NSik3XLRa8u+oar6AHLAjmffQ3oyqxu/DHLf4D2CqpV/aiaWVZYvK4kqLI7HqOjy7LT2VOcR3LbjRPMBWbHQhdOGguhVDVVbqdAzfc1rRV8y7/Ym3uW0KmPjJhlIRno/jOTc/BfYgfRqK4JiMb5RnzwvJx/fN6fn1rb1m91DSVGwUTynPQbJMwBYs1Jsa60YmhsUSl3JrxMhe8UHAmiRW8RNtRoIe5kuKx4VzTMYsZ53PBhSyXRDSECW09dywTf4miSFv6HNQbAqlguwNZTq5ApKDki3axVhRYPZv8rYabNhk8ZLFkJxEii2Gbf6smcquBvrAyDEuiXmdr+eumcGX+5Pv3ySh8Hg1I0hMDMnpmUl+PCMd5zkiX/1YstyEJaK8O9ljrU7TDQThAQY1J4Fix5274IV7sCneC6YUbBQIv6CjghXvU5qKQBOys3Qx/J5Dv7gVSWK5A9QKVMjXbPlw5v6dcDob5ByCFwvqKm6+4yAhz5siZocz0P8hAYslZrvC378Y9XXPA1LiCcSj77VqyFGQVTBJGmHijQt33K3Sv1OI49gkZKjUaLaOwLbVeXX0oj+pSC/f08Qdqzf/MWgu+eq350yPVGgo+t9air6cc6hAeTA5WrhsoRJ+r3PSQLkkZ0T0vw5KJslPmZat8KsxMIsHMMG6VrdyLIEw30fLaGERuXYBDqhUtxxTq5cqJ+ldItmIZ5kftrhTDJB7srhGZwDI+TXdF0Qe7q+ed7FHG/YcTMYdVKVSpdOlHCiOMC1slMTSi1n6VoDoZCNNDeE9f96WJoBNdCloQ6By5OynXhGrSSy+gcWkWhuaW6XEPZfD0E/B4KG2m0RjhEx3KYfDRtDndE3D/WF7c3969Qe6nvZPEEwLDD0rLSRiE7pE02XsnGY//90uJj776eTve75KHnrfjfZEOPm/1sP37oHJv/6NBF38A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T07:53:25.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Le6La1Ekp6yJOJVk22Lq" version="17.1.1" type="github">
+  <diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">
+    <mxGraphModel dx="1234" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-h5A-fP0mDe0jfj-ouIc-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="349" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="150" as="sourcePoint" />
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--2" value="se ejecuta la función generarlista() empleada en el primer ejercicio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="354" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="280" as="sourcePoint" />
+            <mxPoint x="414" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="460" as="sourcePoint" />
+            <mxPoint x="413" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--9" value="se ejecuta la función diccionariolistas()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="354" y="340" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--10" value="se ejecuta la función generarsegmento()&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="354" y="520" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--14" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="344" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="620" as="sourcePoint" />
+            <mxPoint x="414" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-qOB4i9uUnM097fEwzc-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="394.5" as="sourcePoint" />
+            <mxPoint x="550" y="394.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-qOB4i9uUnM097fEwzc-2" value="&lt;span&gt;crea n listas asociadas a los n elementos de la lista original&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qOB4i9uUnM097fEwzc-3" value="&lt;span&gt;extrae los segmentos decrecientes de la lista original y los introduce en el diccionario de listas anteriormente generado&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="515" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="i-qOB4i9uUnM097fEwzc-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="584" as="sourcePoint" />
+            <mxPoint x="550" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
