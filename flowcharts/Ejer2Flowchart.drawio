@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T08:04:26.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ZGpaIydhOChSmzq9BiWG" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T08:13:09.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="vk79BLGd8QLeIZZ1geoF" version="17.1.1" type="github">
   <diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">
     <mxGraphModel dx="1234" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="354" y="500" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tzBprVMu0rsq22Th-5v--14" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="349" y="770" width="130" height="60" as="geometry" />
+          <mxGeometry x="344" y="920" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tzBprVMu0rsq22Th-5v--16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -43,7 +43,7 @@
             <mxPoint x="414" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tzBprVMu0rsq22Th-5v--19" value="se ejecuta la función asociación()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="tzBprVMu0rsq22Th-5v--19" value="se ejecuta la función ordenarlista()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="354" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tzBprVMu0rsq22Th-5v--23" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -52,13 +52,13 @@
             <mxPoint x="413" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MRD62c4sEKoeklS1uNX9-3" value="ordena la lista de tareas en función del número asignado de tal forma que la primera a realizar será la que obtenga una mayor puntuación y la última la que obtenga la menor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="580" y="600" width="120" height="150" as="geometry" />
+        <mxCell id="MRD62c4sEKoeklS1uNX9-3" value="ordena la lista de mayor a menor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="580" y="635" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MRD62c4sEKoeklS1uNX9-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="674.5" as="sourcePoint" />
-            <mxPoint x="560" y="674.5" as="targetPoint" />
+            <mxPoint x="500" y="799.5" as="sourcePoint" />
+            <mxPoint x="560" y="799.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8UZjauzm7cb-xwzPNWY-1" value="&amp;nbsp;crea n listas asociadas a las n tareas e introduce cada una en su lista correspondiente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -77,6 +77,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="389.5" as="sourcePoint" />
             <mxPoint x="560" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q8UZjauzm7cb-xwzPNWY-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="850" as="sourcePoint" />
+            <mxPoint x="413" y="900" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q8UZjauzm7cb-xwzPNWY-6" value="se ejecuta la función ordenprioridad()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8UZjauzm7cb-xwzPNWY-7" value="ordena la lista de tareas en función del número asignado de tal forma que la primera a realizar será la que obtenga una mayor puntuación y la última la que obtenga la menor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="580" y="725" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8UZjauzm7cb-xwzPNWY-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="674.5" as="sourcePoint" />
+            <mxPoint x="560" y="674.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
