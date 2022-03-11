@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T18:18:27.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="yedFUWdrTg9wq75NCrk6" version="16.6.6" type="device"><diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">5Zrdc+MmEMD/Gs+0D+5IQl9+TJz0mofrZSY37TNGK5tUEg5C+frrCwhJNijJ1bWdS5wHBy1okfbHwi5ogubl4xeO16uvLINiEnjZ4wRdTAL5F4Xyn5I8tZI0mrWCJadZK/IHwQ19BiP0jLShGdRbDQVjhaDrbSFhVQVEbMkw5+xhu1nOiu1e13gJjuCG4MKV/k0zsTJvESSD/A+gy1XXsx+b9ytx19i8Sb3CGXvYEKHLCZpzxkRbKh/nUCjjdXZp7/v9hdr+wThU4kdumK6is2l+7ZUX4N3mt1PWXJGp0XKPi8a88NWfV/Orb+aRxVNnB86aKgOlyp+g84cVFXCzxkTVPkjyUrYSZWGq8aJmRSPgjBNDVEuHq1Be1oKzf3qjSnOc57Qo5qxgXHeJsgjSbGi5UZMGCxTHssa1QfdCwAU8boiMTb4AK0HwJ9nE1KLQAOsGqMH1MND2kZGtNkjHRobNAFv2mgcGsmAwjCMRz+dr/tfXxuP1XRB8X02j++kIEgcGVNmZGtvyihS4rinZtv8Ay+uNBJkz0C2ruSbasEE0YoJOxqHAgt5vqx+zi+nhmlHZcU8g9MMtAn5kmbZmDSdg7toc4W8oCjxLkcB8CcJRpDH1r707ucAhV4Oy/C2QRmBZKtRP3lSETuZoco4qNcFBBRzzgtYC//LrK37nve13lgPleR4QMuZAWbyIo8GBHG/5odHROVBkWT0Y8aDgmB6EHA6X6p41Z0uOSw1CcVnLlUV1r+qausGcMlm6a5RQjhDOsuaZqNZ6SRPqTkXNZ/pd5bDH1VKVtRaNVkPsdch1C/BA+AOijTpPtB3qLbTpodCGpz45BrM9TY4oPO7kGDnkbqB3Du2GgAXjFJfS8I5H1bDUznempsyC1S0iJTrz1ZNpiXFaQjN9CVUbF8pYBH9A50vCn8354lN3vtD2mV2dL7S9+MDOl5wauXhmOU84+y3ajV2C3lR1YHrpqdEL90cvsmfRo9ObOfR0VsB4BlWfFHTrnF6zdJVauzgQ2q6Ge1y9MgxpPrp6xSSFRX6YrADF750VdDtK/y09yyhhgpU60rjYd4IGfhZBMoZiFicIHyhBi/x3R+HucbziE2tpFBvEB8Tge7H3s3F4YceiTY+5zF8r0cbmk80UeYtOyyw7Cqg8h/iFwDuZLTzvMP4SR+/OyU17b75/u37FtkfbpM1TAuNIFmkURgdCksxGkBx3l9bNZx0cnywo89H29JXuGJLZimJ03IDMP/k8tk9p/m8em9h7DYdGd3KJbJhawRvaPRVCb6o6ND43kwVrZ56wpQ7KC/0DajNQhRzygYCXkNHxDXfFA2q9bagDGMKqe6oWnC6lMt3QEvi4hmOGMceJNyMr3AzHTjbHwpheuP9F082FZUEfopizFdySafdvDX5Vbk9U2nytIo0Uc1zp2wxH+nzXSOIaYPsNQknrsjuqyWmFi35jWWschkAGMs9eyVKMSwWuWtTrHsGHQp5Y+ybhWJg0itw+Kd0b8sDNuj/5jJ34Vpq3+4yd2Bnj0WfswM3UPzm+mXXmGe265+976HD05OXw5VDbfPj+Cl3+Cw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-11T08:15:02.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="J7C9fZTJ0X40fGtLAAIs" version="17.1.1" type="github">
+  <diagram id="yspbGjNOcKUC7mXEu4Fz" name="Page-1">
+    <mxGraphModel dx="1234" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-h5A-fP0mDe0jfj-ouIc-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="349" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="150" as="sourcePoint" />
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--2" value="se ejecuta la función generarlista()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--3" value="El programa le pide al usuario que introduzca el tamaño y rango de la lista que desea generar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="550" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="290" as="sourcePoint" />
+            <mxPoint x="414" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--5" value="Se genera aleatoriamente la lista según los parámetros introducidos en consola" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="740" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="440" as="sourcePoint" />
+            <mxPoint x="414" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="249.5" as="sourcePoint" />
+            <mxPoint x="730" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--8" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="249.5" as="sourcePoint" />
+            <mxPoint x="540" y="249.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--9" value="se ejecuta la función ordenarlista()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="354" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--10" value="se ejecuta la función dicotomía()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="354" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--11" value="se ordena la lista por dicotomía" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--12" value="se le presenta al usuario la lista ordenada por dicotomía" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--14" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="354" y="790" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="413" y="585" as="sourcePoint" />
+            <mxPoint x="413" y="635" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="730" as="sourcePoint" />
+            <mxPoint x="414" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--17" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484" y="539.5" as="sourcePoint" />
+            <mxPoint x="534" y="539.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--18" value="el programa coge el elemento intermedio de la lista y este se convierte en el primero de la lista ordenada por dicotomía" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="560" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--19" value="luego añade los elementos que se encuentran a la izquierda del mismo y finalmente los de la derecha&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="790" y="490" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--20" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="539.5" as="sourcePoint" />
+            <mxPoint x="760" y="539.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tzBprVMu0rsq22Th-5v--21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="540" as="sourcePoint" />
+            <mxPoint x="1030" y="539.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgXHmD3r81zm52Rc6Z2_-1" value="ordena la lista de menor a mayor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QgXHmD3r81zm52Rc6Z2_-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="389.5" as="sourcePoint" />
+            <mxPoint x="540" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
