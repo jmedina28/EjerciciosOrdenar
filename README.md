@@ -113,7 +113,7 @@ else:
 El diagrama de flujo es el siguiente:
 
 <br>
-<img height="600" src="flowcharts/Ejercicio2Flowchart.jpg" />
+<img height="600" src="flowcharts/Ejer2Flowchart.drawio.jpg" />
 <br>
 
 ## Ejercicio 3: Completar las especificaciones<a name="id3"></a>
