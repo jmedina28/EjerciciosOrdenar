@@ -68,7 +68,7 @@ print("Esta es la lista obtenida mediante la dicotomía: " + str(listadicotomia)
 El diagrama de flujo es el siguiente:
 
 <br>
-<img height="600" src="flowcharts/Ejer1Flowchart.drawio.jpg" />
+<img height="600" src="flowcharts/Ejer1Flowchartfinal.jpg" />
 <br>
 
 ## Ejercicio 2: Una ordenación topológica<a name="id2"></a>
@@ -125,7 +125,7 @@ else:
 El diagrama de flujo es el siguiente:
 
 <br>
-<img height="600" src="flowcharts/Ejer2Flowchart.drawio.jpg" />
+<img height="600" src="flowcharts/Ejercicio2Flowchartfinal.jpg" />
 <br>
 
 ## Ejercicio 3: Completar las especificaciones<a name="id3"></a>
